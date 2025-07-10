@@ -32,6 +32,14 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
+
+      - name: Configure npm for GitHub Packages
+        run: |
+          # tell npm that @kingbain/* lives on GitHub Packages
+          echo "@kingbain:registry=https://npm.pkg.github.com" >> ~/.npmrc
+          # give npm a token so it can read @kingbain packages
+          echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" >> ~/.npmrc
+
       - name: Generate site
         uses: upptime/uptime-monitor@v1.40.1
         with:
