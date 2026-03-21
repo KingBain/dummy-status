@@ -1,7 +1,7 @@
 url: https://protario.com
-status: up
-code: 200
-responseTime: 1818
-lastUpdated: 2026-03-21T09:51:36.252Z
+status: down
+code: 415
+responseTime: 207
+lastUpdated: 2026-03-21T20:11:07.825Z
 startTime: 2025-07-09T02:59:22.219Z
 generator: Upptime <https://github.com/upptime/upptime>
