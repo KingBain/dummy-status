@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 123,
-    "timeDay": 157,
-    "timeWeek": 100,
-    "timeMonth": 137,
+    "timeDay": 78,
+    "timeWeek": 96,
+    "timeMonth": 136,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2026-04-11": 17,
@@ -25,18 +25,19 @@
     "url": "https://protario.com",
     "icon": "https://icons.duckduckgo.com/ip3/protario.com.ico",
     "slug": "protario",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "96.47%",
-    "uptimeWeek": "95.06%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "95.36%",
     "uptimeMonth": "94.37%",
-    "uptimeYear": "99.31%",
-    "time": 1109,
-    "timeDay": 662,
-    "timeWeek": 773,
-    "timeMonth": 970,
-    "timeYear": 1109,
+    "uptimeYear": "99.32%",
+    "time": 1107,
+    "timeDay": 592,
+    "timeWeek": 760,
+    "timeMonth": 967,
+    "timeYear": 1107,
     "dailyMinutesDown": {
+      "2026-04-28": 0,
       "2026-04-27": 115,
       "2026-04-26": 103,
       "2026-04-25": 61,
@@ -70,8 +71,7 @@
       "2026-03-22": 34,
       "2026-03-21": 49,
       "2026-03-20": 101,
-      "2026-03-19": 16,
-      "2026-03-18": 31
+      "2026-03-19": 16
     }
   }
 ]
