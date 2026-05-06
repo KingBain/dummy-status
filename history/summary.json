@@ -25,17 +25,17 @@
     "url": "https://protario.com",
     "icon": "https://icons.duckduckgo.com/ip3/protario.com.ico",
     "slug": "protario",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "94.28%",
+    "uptimeDay": "94.55%",
     "uptimeWeek": "97.23%",
     "uptimeMonth": "94.01%",
     "uptimeYear": "99.32%",
-    "time": 1096,
-    "timeDay": 686,
-    "timeWeek": 897,
-    "timeMonth": 929,
-    "timeYear": 1096,
+    "time": 1094,
+    "timeDay": 680,
+    "timeWeek": 874,
+    "timeMonth": 925,
+    "timeYear": 1094,
     "dailyMinutesDown": {
       "2026-05-06": 31,
       "2026-05-05": 51,
@@ -72,8 +72,7 @@
       "2026-03-27": 19,
       "2026-03-26": 32,
       "2026-03-25": 29,
-      "2026-03-24": 48,
-      "2026-03-23": 26
+      "2026-03-24": 48
     }
   }
 ]
